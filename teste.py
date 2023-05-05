@@ -1,1 +1,1 @@
-Teste de arquivo
+print('Ola mundo')
